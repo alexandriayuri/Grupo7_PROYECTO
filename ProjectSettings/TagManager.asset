@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OptionButton
+  - NextScene
+  - PreviousScene
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 2
+    uniqueID: 143085737
+    locked: 0
+  - name: Background 1
+    uniqueID: 1766054655
+    locked: 0
+  - name: Midground 1
+    uniqueID: 1091720571
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Midground2
+    uniqueID: 826641523
+    locked: 0
+  - name: Character
+    uniqueID: 2359243375
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 1159566103
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 454989237
+    locked: 0
+  - name: Dialogues
+    uniqueID: 77242847
+    locked: 0

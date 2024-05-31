@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec45f86138de8c44698ab35a1c502664, type: 3}
+  m_Name: RandomNPC
+  m_EditorClassIdentifier: 
+  actors: 000000000200000002000000000000000200000000000000
+  randomActorName: "Se\xF1or Javier"
+  dialogue:
+  - "Buenas tardes, se\xF1or."
+  - "Buenas tardes, Haki. He escuchado por ah\xED que se ha desaparecido Amelia.."
+  - "\xBFQu\xE9 ha pasado?"
+  - "La verdad que me encantar\xEDa saber yo tambi\xE9n."
+  - "Bueno, cari\xF1o. Mucho animo. Si necesitas ayuda, no dudes en decirme."
+  - "Gracias, se\xF1or."
+  optionText: []
+  option0: {fileID: 0}
+  option1: {fileID: 0}

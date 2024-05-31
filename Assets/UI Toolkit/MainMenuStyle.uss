@@ -1,0 +1,63 @@
+.header {
+    font-size: 90px;
+    color: rgb(103, 85, 70);
+}
+
+.button {
+    -unity-font: url("project://database/Assets/Fonts/Bright%20Chalk.ttf?fileID=12800000&guid=8b2209716cc7efa4f9d46f2c9cd6cfdd&type=3#Bright Chalk");
+    -unity-font-definition: initial;
+    font-size: 35px;
+    color: rgb(70, 54, 40);
+    -unity-text-align: middle-left;
+    white-space: normal;
+    text-overflow: clip;
+    padding-left: 55px;
+    padding-top: 5px;
+    -unity-font-style: normal;
+    position: relative;
+    top: 389px;
+    transition-duration: 0.3s;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}
+
+.button:hover {
+    scale: 1 1;
+    -unity-background-image-tint-color: rgb(171, 154, 138);
+    translate: 0 5px;
+    color: rgb(197, 182, 170);
+}
+
+.button2 {
+    -unity-font: url("project://database/Assets/Fonts/Bright%20Chalk.ttf?fileID=12800000&guid=8b2209716cc7efa4f9d46f2c9cd6cfdd&type=3#Bright Chalk");
+    -unity-font-definition: initial;
+    font-size: 35px;
+    color: rgb(70, 54, 40);
+    -unity-text-align: middle-left;
+    white-space: normal;
+    text-overflow: clip;
+    padding-left: 55px;
+    padding-top: 5px;
+    -unity-font-style: normal;
+    position: relative;
+    top: 389px;
+    transition-duration: 0.3s;
+}
+
+.button2:hover {
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    color: rgb(138, 110, 59);
+    scale: 1.1 1.1;
+}
+
+.button:active {
+    scale: 1 1;
+    -unity-background-image-tint-color: rgb(171, 154, 138);
+    translate: 0 5px;
+    color: rgb(197, 182, 170);
+}

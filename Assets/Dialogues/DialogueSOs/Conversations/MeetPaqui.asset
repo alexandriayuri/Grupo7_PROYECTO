@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec45f86138de8c44698ab35a1c502664, type: 3}
+  m_Name: MeetPaqui
+  m_EditorClassIdentifier: 
+  actors: 0000000001000000010000000100000001000000010000000100000001000000010000000100000000000000000000000000000000000000010000000100000001000000010000000100000000000000010000000100000001000000010000000000000000000000000000000000000001000000
+  randomActorName: 
+  dialogue:
+  - "\xA1Hola Paqui!"
+  - "\xA1Ay! Hola Haki, cari\xF1o. \xBFC\xF3mo est\xE1s? "
+  - "Madre m\xEDa ya me he enterado de todo lo que ha pasado. "
+  - No me lo hubiera imaginado en la vida.
+  - Vaya encima, Amelia, que es un cielo. Espero que este bien.
+  - La vida es tan injusta siempre con aquellos que no lo merecen.
+  - Bueno, corazon, tu sabes que me tienes para lo que necesites.
+  - Cualquier cosa tu vienes aqui y hablas conmigo.
+  - Bueno, ahora mismo me pillas un poco liada amor
+  - "Y como me quede aqui un poco m\xE1s se echa la hora encima. \r\n"
+  - Pero... Paqui... que...
+  - "\xA1\xA1\xA1Espera!!! "
+  - "Mi abuela vino aqui esta ma\xF1ana antes de desaparecer"
+  - "\xBFSabes algo? \xBFTe ha dicho algo?"
+  - 'Pues a ver, '
+  - "no me acuerdo bien porque esa ma\xF1ana habia mucho jaleo."
+  - 'Es que mira no se si te has enterado pero '
+  - "se casa la hija del hermano de Slava el cerrajero, \xBFsabes quien te digo no?"
+  - "Pero es que encima de una forma muy apresurada y extra\xF1a la verdad..."
+  - '[...Ay dios, no para.]'
+  - Siempre he dicho que Amelia es una de mis clientes favs porque...
+  - "Ese d\xEDa no estaba leyendo nada. Estaba escribiendo cosas"
+  - en su cuadernito, el de la tapa de cuero rojo.
+  - "Ay, como ese cuaderno que llevas tu siempre tambi\xE9n."
+  - ... ... ...
+  - "El cuaderno rojo... \xA1CLARO!"
+  - "[Ir\xE9 a ver si puedo encontrarlo y hay alguna pista...]"
+  - "Gracias Paqui. \xA1Adi\xF3s!"
+  - "E? de nada, cari\xF1o. Nos vemos."
+  optionText: []
+  option0: {fileID: 0}
+  option1: {fileID: 0}

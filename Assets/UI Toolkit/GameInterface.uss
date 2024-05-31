@@ -1,0 +1,20 @@
+.button {
+    -unity-background-image-tint-color: rgb(232, 228, 215);
+    transition-duration: 0.3s;
+}
+
+.button:hover {
+    -unity-background-image-tint-color: rgb(147, 129, 103);
+    translate: 0 -35px;
+}
+
+.button2 {
+    color: rgb(70, 54, 40);
+    font-size: 40px;
+}
+
+.button2:hover {
+    -unity-background-image-tint-color: rgb(147, 129, 103);
+    color: rgb(233, 222, 206);
+    translate: 0 5px;
+}
